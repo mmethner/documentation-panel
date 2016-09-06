@@ -1,0 +1,34 @@
+{
+  "type": "panel",
+  "name": "Documentation Overlay",
+  "id": "documentation-panel",
+  "info": {
+    "description": "Documentation panel for grafana (text panel + bootstrap popover)",
+    "author": {
+      "name": "Mathias Methner",
+      "email": "mathiasmethner@gmail.com",
+      "url": "https://mathiasmethner.de"
+    },
+    "keywords": [
+      "documentation",
+      "panel",
+      "popover"
+    ],
+    "links": [
+      {
+        "name": "Project site",
+        "url": "https://github.com/mmethner/documentation-panel"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/mmethner/documentation-panel/blob/master/LICENSE"
+      }
+    ],
+    "version": "1.0.0",
+    "updated": "2016-09-06"
+  },
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": []
+  }
+}

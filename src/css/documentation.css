@@ -1,0 +1,45 @@
+.documentation {
+    text-align: center
+}
+
+.documentation .red,
+.documentation H3 > em {
+    color: #d4021d;
+    font-style: normal
+}
+
+.documentation .head {
+    text-align: center
+}
+
+.documentation IMG.panel {
+    max-height: 160px;
+    width: 55%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: none
+}
+
+.documentation IMG.logo {
+    height: 30px;
+    padding: 9px 15px 13px
+}
+
+.documentation IMG.popover-help {
+    cursor: help
+}
+
+.documentation .modal-body {
+    padding: 15px
+}
+
+.documentation .popover-content H4.otto {
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 3px
+}
+
+.popover-content H4.otto:first-child {
+    margin-top: 0;
+}
