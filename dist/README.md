@@ -1,6 +1,6 @@
 The documentation-panel is based on the buildin grafana text-panel
 
-![Screenshot](https://raw.githubusercontent.com/mmethner/documentation-panel/master/src/img/documentationt-panel.png)
+![Screenshot](https://raw.githubusercontent.com/mmethner/documentation-panel/master/src/img/documentation-panel.png)
 
 # Installation
 
