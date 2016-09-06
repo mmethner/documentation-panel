@@ -25,8 +25,14 @@
       }
     ],
     "screenshots": [
-      {"name": "Bootstrap Popover", "path": "src/img/documentation-panel.png"},
-      {"name": "Panel options", "path": "src/img/documentation-panel-options.png"}
+      {
+        "name": "Bootstrap Popover",
+        "path": "src/img/documentation-panel.png"
+      },
+      {
+        "name": "Panel options",
+        "path": "src/img/documentation-panel-options.png"
+      }
     ],
     "version": "1.0.0",
     "updated": "2016-09-06"
